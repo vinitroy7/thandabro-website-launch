@@ -1,7 +1,7 @@
 import { MapPin, Phone, MessageCircle, Instagram, Mail } from "lucide-react";
 
 export function LocationContact() {
-  const wa = "https://wa.me/919999999999?text=Hi%20ThandaBro%2C%20I%20want%20to%20order";
+  const wa = "https://wa.me/919205600434?text=Hi%20ThandaBro%2C%20I%20want%20to%20order";
   return (
     <section id="locations" className="py-20 sm:py-28 bg-background">
       <div className="mx-auto max-w-7xl px-4 sm:px-6">
@@ -44,7 +44,7 @@ export function LocationContact() {
                   <span>→</span>
                 </a>
                 <a href="tel:+919999999999" className="flex items-center justify-between gap-3 rounded-2xl glass text-white px-5 py-4 font-bold hover:bg-white/15">
-                  <span className="flex items-center gap-3"><Phone className="size-5" /> Call Now · +91 99999 99999</span>
+                  <span className="flex items-center gap-3"><Phone className="size-5" /> Call Now · +91 919205600434</span>
                   <span>→</span>
                 </a>
                 <a href="https://instagram.com" target="_blank" rel="noreferrer" className="flex items-center justify-between gap-3 rounded-2xl glass text-white px-5 py-4 font-bold hover:bg-white/15">

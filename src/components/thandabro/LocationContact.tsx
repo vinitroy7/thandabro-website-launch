@@ -44,7 +44,7 @@ export function LocationContact() {
                   <span>→</span>
                 </a>
                 <a href="tel:+919999999999" className="flex items-center justify-between gap-3 rounded-2xl glass text-white px-5 py-4 font-bold hover:bg-white/15">
-                  <span className="flex items-center gap-3"><Phone className="size-5" /> Call Now · +91 919205600434</span>
+                  <span className="flex items-center gap-3"><Phone className="size-5" /> Call Now · +91 92056 00434</span>
                   <span>→</span>
                 </a>
                 <a href="https://instagram.com" target="_blank" rel="noreferrer" className="flex items-center justify-between gap-3 rounded-2xl glass text-white px-5 py-4 font-bold hover:bg-white/15">
